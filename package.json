@@ -1,0 +1,28 @@
+{
+  "name": "simple-ast",
+  "version": "1.0.0",
+  "description": "Simple Abstract Syntax Tree",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spoissant/simple-ast.git"
+  },
+  "keywords": [
+    "javascript",
+    "ast"
+  ],
+  "author": "Simon Poissant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spoissant/simple-ast/issues"
+  },
+  "homepage": "https://github.com/spoissant/simple-ast#readme"
+}
